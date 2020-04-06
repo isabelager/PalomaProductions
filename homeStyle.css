@@ -7,14 +7,14 @@ h1{
     color:mintcream;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
+
+
+}
+div.divh{
     background-image: url(img/ppbanner.JPG);
     background-size: 50%;
     background-position: right;
-
 }
-/*div.h1{
-    background-image: url(img/ppbanner.JPG);
-}*/
 
 h2{
     font-family: Helvetica;
