@@ -1,0 +1,41 @@
+h1{
+    font-family: Helvetica;
+    vertical-align: top;
+    text-align: center;
+    margin: 5%;
+    font-size: 300%;
+    color:mintcream;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+
+}
+
+.topnav {
+    background-color: mintcream;
+    overflow: hidden;
+    w: hidden;
+    font-weight: 100;
+}
+
+.topnav a {
+    font-family: Helvetica;
+    float: left;
+    display: block;
+    color: black;
+    align-items: center;
+    text-align: center;
+    padding: 7px 10px;
+    text-decoration: none;
+    font-size: 100%;
+}
+
+.topnav a:hover {
+    background-color: #e7e6f5;
+    color: black;
+}
+
+.active {
+    background-color: #bc97cc;
+    color: white;
+}
+
