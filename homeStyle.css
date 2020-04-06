@@ -2,12 +2,23 @@ h1{
     font-family: Helvetica;
     vertical-align: top;
     text-align: center;
-    margin: 5%;
+    margin: 3%;
     font-size: 300%;
     color:mintcream;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
 
+}
+
+h2{
+    font-family: Helvetica;
+    vertical-align: top;
+    text-align: center;
+    margin: 3%;
+    font-size: 250%;
+    color: mintcream;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
 
 .topnav {
