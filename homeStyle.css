@@ -50,3 +50,27 @@ h2{
     color: white;
 }
 
+.pgreen1 {
+    margin-bottom: 5%;
+    margin-left: 10%;
+
+}
+
+.contactTxt {
+    background-color: mintcream;
+    overflow: hidden;
+    w: hidden;
+    font-weight: 200;
+    font-family: Helvetica;
+    float: left;
+    display: block;
+    color: black;
+    align-items: right;
+    text-align: right;
+    padding: 210px 15px;
+    text-decoration: none;
+    font-size: 150%;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
